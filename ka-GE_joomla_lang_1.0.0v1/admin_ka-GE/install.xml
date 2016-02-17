@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" client="administrator" type="language" method="upgrade">
+	<name>Georgian (Georgia)</name>
+	<tag>ka-GE</tag>
+	<version>1.0.0.1</version>
+	<creationDate>2016-02-17</creationDate>
+	<author>Giga Songulashvili</author>
+	<authorEmail>giga.songulashvili@gmail.com</authorEmail>
+	<authorUrl>www.songulashvili.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>ka-GE administrator language</description>
+	<files>
+		<filename>ka-GE.ini</filename>
+		<filename file="meta">ka-GE.xml</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params />
+</extension>

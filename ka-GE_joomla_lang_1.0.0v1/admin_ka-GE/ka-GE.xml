@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="1.0" client="administrator">
+	<name>Georgian (Georgia)</name>
+	<tag>ka-GE</tag>
+	<version>1.0.0.1</version>
+	<creationDate>2016-02-17</creationDate>
+	<author>Giga Songulashvili</author>
+	<authorEmail>giga.songulashvili@gmail.com</authorEmail>
+	<authorUrl>www.songulashvili.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>en-US administrator language</description>
+	<metadata>
+		<name>Georgian (Georgia)</name>
+		<tag>ka-GE</tag>
+		<rtl>0</rtl>
+		<locale>ka_GE.utf8, ka_GE.UTF-8, ka_GE, ge, ka, georgian, georgian-ge, geo</locale>
+		<firstDay>1</firstDay>
+		<weekEnd>0,6</weekEnd>
+	</metadata>
+	<params />
+</metafile>
